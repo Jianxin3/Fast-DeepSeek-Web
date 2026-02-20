@@ -13,7 +13,7 @@
 ## 📦 安装方法
 
 1. 安装用户脚本管理器，如 [Tampermonkey](https://www.tampermonkey.net/)（支持 Chrome/Edge/Firefox）或 [Greasemonkey](https://www.greasespot.net/)（Firefox）。
-2. 点击 [此处](https://github.com/你的用户名/你的仓库/raw/main/script.user.js) 直接安装，或新建脚本并粘贴上方提供的代码。
+2. 点击 [此处](https://github.com/Jianxin3/Fast-DeepSeek-Web/raw/main/script.user.js) 直接安装，或新建脚本并粘贴上方提供的代码。
 3. 打开 [DeepSeek 聊天页面](https://chat.deepseek.com/)，享受流畅的对话体验。
 
 ## 🛠️ 使用方法
@@ -62,7 +62,7 @@ div.ca1ef5b2.ds-scroll-area > div:first-child > div {
 
 ## 🤝 贡献
 
-如果你发现 DeepSeek 页面结构变化导致脚本失效，或有更好的优化思路，欢迎提交 Issue 或 Pull Request 至 [GitHub 仓库](https://github.com/你的用户名/你的仓库)。
+如果你发现 DeepSeek 页面结构变化导致脚本失效，或有更好的优化思路，欢迎提交 Issue 或 Pull Request 至 [GitHub 仓库](https://github.com/Jianxin3/Fast-DeepSeek-Web)。
 
 提交问题时请提供：
 - 浏览器版本。
@@ -75,8 +75,8 @@ div.ca1ef5b2.ds-scroll-area > div:first-child > div {
 
 ## 👤 作者
 
-**你的名字**  
-- GitHub：[@你的用户名](https://github.com/你的用户名)
+**Jianxin223**  
+- GitHub：[@Jianxin3](https://github.com/Jianxin3)
 
 如果这个脚本对你有帮助，欢迎给仓库点个 Star ⭐ 或分享给更多人！
 
